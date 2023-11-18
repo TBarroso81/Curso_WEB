@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+
+h1{
+    color: #828271;
+    font-size: 1.4em;
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 4px;
+}
+
+.img-campanha{
+    border: 10px solid #c3c3ae;
+}
+
+.fundo{ 
+    background: #d2d2c1 url(Imagens/fundo.png); 
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal{
+    size: 100%;
+}
+
+#capa{
+    width: 100%;
+}
+
+#menu{
+    background: #c5c5b2;
+    padding: 18px;
+}
+
+#conteudo{
+    background:#e8e8d9;
+    padding: 15px;
+}
+
+#rodape{
+    text-align: center;
+}
+
